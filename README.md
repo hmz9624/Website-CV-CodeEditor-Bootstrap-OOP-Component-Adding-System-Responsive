@@ -20,3 +20,7 @@ You can use your own database if you want instead of component.json local storag
 **
 ![image](https://user-images.githubusercontent.com/85802866/146637759-af7ceb15-8ce6-4390-a520-efd81be22313.png)
 **
+**
+![image](https://user-images.githubusercontent.com/85802866/146637833-5898ab40-cbb9-4bf8-9ffc-fb382e371409.png)
+**
+![image](https://user-images.githubusercontent.com/85802866/146637846-6bb29583-ea70-470e-8b04-1b2609cb4ad7.png)
