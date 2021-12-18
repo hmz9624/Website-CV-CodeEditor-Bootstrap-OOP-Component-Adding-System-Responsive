@@ -1,0 +1,72 @@
+#navbarLeft::-webkit-scrollbar {    
+    display: none;
+}
+
+body {
+    background-image: linear-gradient(90deg, rgb(221, 230, 235), rgb(228, 230, 241), rgb(237, 193, 252));
+}
+
+#navbar01 {
+    position: fixed;
+    width: 100%;
+    top: 12px;
+    padding: 0;
+}
+
+#progress {
+    position: fixed;
+    width: 100%;
+}
+
+#navbarLeft {
+    display: block;
+    position: fixed;
+    height: 90%;
+    width: 14%;
+    top: 70px;
+    border: 2px solid rgb(129, 224, 220);
+    overflow-y: auto;
+    text-align: center;
+}
+#navbarImg {
+    display: block;
+    position: fixed;
+    right: 0;
+    height: 90%;
+    width: 9.75%;
+    top: 70px;
+    border: 2px solid white;
+    overflow-y: auto;
+    text-align: center;
+}
+
+ #navbarLeft button{
+    padding:0;
+    padding-top:5px;
+    padding-left: 8px;
+    padding-bottom: 5px;
+    background-color:rgb(203, 214, 221);
+    margin-top:1px
+ }
+
+ #textRight{
+     margin-right: 10%;
+     margin-left: 15%;
+     padding-top: 10px;
+    
+ }
+
+ textarea {
+     resize: none;
+     border: 1px solid green;
+     width: 100%;
+     box-sizing: border-box;
+     max-height: 560px;
+     min-height: 38px;
+     overflow-x: hidden;
+ }
+ 
+ img {
+     max-width: 100%;
+     height: 50%;
+ }

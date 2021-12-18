@@ -1,0 +1,18 @@
+<div></div>
+    <h1>birinci</h1>
+    <h2>ikinci</h2>
+    <h3>üçüncü</h3>
+    <div>
+    <h1>Hamza Aygün</h1>
+<p>Benim adım hamza</p>
+    </div>
+</div>
+
+<style>
+
+    div ,h1 , h2 ,h3 ,p { 
+        border:1px solid red;
+        padding:10px
+        }
+
+</style>
